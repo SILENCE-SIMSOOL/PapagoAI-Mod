@@ -43,5 +43,5 @@ But I will add to more languages in PapagoAPI after.
 
 ## What is Papago?
 
-Link: https://papago.naver.com/
+Click to [Here](https://papago.naver.com/) to check
 
