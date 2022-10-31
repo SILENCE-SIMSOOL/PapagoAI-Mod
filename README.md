@@ -46,9 +46,9 @@ I will add to more languages in PapagoAPI after.
 
 • English ➜ en
 
-• Japan ➜ ja
+• Japanese ➜ ja
 
-• China ➜ ch
+• Chinese ➜ ch
 
 
 ## What is Papago?
