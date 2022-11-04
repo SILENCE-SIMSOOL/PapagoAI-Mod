@@ -31,13 +31,13 @@ I will add to more languages in PapagoAPI after.
 
 • /papago github - Show github link for download the mod (파파고API 도움말을 보여줍니다)
 
-• /ko <text> - Translate text into Korean (텍스트를 영어에서 한국어로 번역합니다)
+• /ko <text> - Translate text into Korean (텍스트를 한국어로 번역합니다)
 
-• /en <text> - Translate text into English (텍스트를 한국어에서 영어로 번역합니다)
+• /en <text> - Translate text into English (텍스트를 영어로 번역합니다)
 
-• /ja <text> - Translate text into Japan (파파고API 도움말을 보여줍니다)
+• /ja <text> - Translate text into Japanese (텍스트를 일본어로 번역합니다)
 
-• /ch <text> - Translate text into China (파파고API 도움말을 보여줍니다)
+• /ch <text> - Translate text into Chinese (텍스트를 중국어로 번역합니다)
 
 
 ## Translation type
