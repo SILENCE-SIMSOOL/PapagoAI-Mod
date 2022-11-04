@@ -29,7 +29,7 @@ I will add to more languages in PapagoAPI after.
 
 • /papago help - Show help commands for PapagoAPI (파파고API 도움말을 보여줍니다)
 
-• /papago github - Show help commands for PapagoAPI (파파고API 도움말을 보여줍니다)
+• /papago github - Show github link for download the mod (파파고API 도움말을 보여줍니다)
 
 • /ko <text> - Translate text into Korean (텍스트를 영어에서 한국어로 번역합니다)
 
