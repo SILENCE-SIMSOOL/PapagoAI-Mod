@@ -39,6 +39,12 @@ I will add to more languages in PapagoAPI after.
 
 • /ch <text> - Translate text into Chinese (텍스트를 중국어로 번역합니다)
 
+• fr <text> - Translate text into French (텍스트를 프랑스어로 번역합니다)
+  
+• /ru <text> - Translate text into Russian (텍스트를 러시아어로 번역합니다)
+  
+• /id <text> -  Translate text into Indian (텍스트를 인도어로 번역합니다)
+
 
 ## Translation type
 
@@ -49,6 +55,12 @@ I will add to more languages in PapagoAPI after.
 • Japanese ➜ ja
 
 • Chinese ➜ ch
+  
+• French ➜ fr
+  
+• Russian ➜ ru
+
+• Indian ➜ id
 
 
 ## What is Papago?
