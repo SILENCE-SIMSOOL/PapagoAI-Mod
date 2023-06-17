@@ -1,11 +1,11 @@
 # PapagoAPI Mod
 Mod Name: PapagoAPI
 
-Latest Version: 2.0.0
+Latest Version: 2.1.2
 
-Author: Hothacho
+Author: SimSool
 
-Discord: Hothacho#6532
+Discord: SimSool#7068
 
 ## What is Mod?
 
